@@ -8,3 +8,5 @@
     path = "/c/Program Files/KDiff3/kdiff3.exe"
 [mergetool "kdiff3"]
     path = "/c/Program Files/KDiff3/kdiff3.exe"
+[init]
+  templatedir = ~/dev/dotfiles/git_template

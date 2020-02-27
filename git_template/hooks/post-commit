@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "POST-COMMIT"
+mktags >/dev/null 2>&1 &

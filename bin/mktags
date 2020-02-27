@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+$(git rev-parse --git-path hooks)/ctags

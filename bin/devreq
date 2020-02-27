@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+pip install \
+    neovim \
+    jedi \
+    flake8 \
+    flake8-bugbear \
+    black \
+    isort \
+    ipython \
+    watchdog
